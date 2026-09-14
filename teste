@@ -1,0 +1,42 @@
+[33mcommit c5b33a4f64aeec57aa626c8daec2056aff1dcb32[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: ClaytonCSilva <clayton.silva@digiage.com.br>
+Date:   Mon Sep 14 10:30:04 2026 -0300
+
+    Resolvendo os bugs
+
+[33mcommit 4e8dcd102a5a9cfaca04efb780d4113f35afca9c[m
+Merge: 386451e ff1cad6
+Author: ClaytonCSilva <clayton.silva@digiage.com.br>
+Date:   Mon Sep 14 10:29:24 2026 -0300
+
+    Merge branch 'main' of https://github.com/ClaytonCSilva/git-lab.
+
+[33mcommit 386451ef2b8c4813521bfb3fd6d5b5b264a7e9ba[m
+Author: ClaytonCSilva <clayton.silva@digiage.com.br>
+Date:   Mon Sep 14 10:27:10 2026 -0300
+
+    Testando o commit do git, para ver se o push funciona corretamente.
+
+[33mcommit ff1cad6688d0ba82f16c7afb47f3264056527e6e[m
+Author: Clayton Ramalho <clayton.carllos08@gmail.com>
+Date:   Fri Sep 11 16:02:29 2026 -0300
+
+    Removendo o teste
+
+[33mcommit b708a4c79435323ec7e0c75ae0e2e9350b24a0ff[m
+Author: Clayton Ramalho <clayton.carllos08@gmail.com>
+Date:   Fri Sep 11 16:00:59 2026 -0300
+
+    Add test print statement to app.py
+
+[33mcommit bd8cc836cce35ba461c2a196a317fc7ba008cb54[m
+Author: ClaytonCSilva <clayton.silva@digiage.com.br>
+Date:   Fri Sep 11 15:53:19 2026 -0300
+
+    feat: adiciona mensagem inicial e titulo no readme
+
+[33mcommit 9e9dc6016f24e04a42547242a73673a74ad16810[m
+Author: ClaytonCSilva <clayton.silva@digiage.com.br>
+Date:   Fri Sep 11 15:49:41 2026 -0300
+
+    feat: cria estrutura inicial do projeto com arquivos basicos
